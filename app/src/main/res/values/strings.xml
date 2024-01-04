@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application_imdb</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="buscar_imdb">Buscar IMDb</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
