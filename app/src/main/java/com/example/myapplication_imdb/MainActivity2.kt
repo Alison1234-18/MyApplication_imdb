@@ -14,6 +14,7 @@ class MainActivity2 : AppCompatActivity() {
         initRecyclerView()
     }
 
+    
     private fun initRecyclerView(){
         val recyclerView = findViewById<RecyclerView>(R.id.recyclerSuperHero)
 
